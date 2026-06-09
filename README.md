@@ -1,4 +1,8 @@
-# Friends-Finetuned 🎬💬
+# Friends-Finetuned 
+
+Do LLM's have their own personality ? 
+
+I try dapping a try at that by fintuning models to characters in friends and making them take personality assessments. 
 
 > **Core Focus:** LLM Fine-Tuning, Character Persona Alignment, Parameter-Efficient Adaptation
 > **Base Architectures:** Compatible with Llama-3 / Mistral-7B / Llama-2-7B
